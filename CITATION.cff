@@ -1,0 +1,38 @@
+```yaml
+cff-version: 1.2.0
+title: "Self-Healing Asphalt using Bacterial Biomineralization"
+message: >
+  If you use or reference this research, please cite this repository.
+
+type: software
+
+authors:
+  - family-names: Goel
+    given-names: Khushal
+  - family-names: Tomar
+    given-names: Tanish
+
+abstract: >
+  A student research project investigating self-healing asphalt through
+  bacterial biomineralization using Bacillus pseudofirmus to promote
+  autonomous crack repair in asphalt pavements.
+
+keywords:
+  - Material Science
+  - Civil Engineering
+  - Self-Healing Asphalt
+  - Biomineralization
+  - Microbial Induced Calcium Carbonate Precipitation
+  - Bacillus pseudofirmus
+  - Sustainable Infrastructure
+  - Research
+  - IRIS National Fair
+
+license: "All Rights Reserved"
+
+repository-code: "https://github.com/khushalgoel/self-healing-asphalt"
+
+date-released: 2025-12-12
+
+version: "1.0.0"
+```
